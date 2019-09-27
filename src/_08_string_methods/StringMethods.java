@@ -1,4 +1,7 @@
 package _08_string_methods;
+
+import javax.swing.JOptionPane;
+
 //    Copyright (c) The League of Amazing Programmers 2013-2017
 //    Level 0
 
@@ -8,7 +11,7 @@ public class StringMethods {
 	public static void main(String[] args) {
 		
 		// 1. Create a String variable and initialize it to whatever you want
-
+		String r;
 		// 2. Print the 3rd char of your String to the console.
 		//    HINT: .charAt
 		
